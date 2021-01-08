@@ -1,6 +1,6 @@
 # Private-Events
 
-# Getting Started
+## Getting Started
 ##
 
 This project was created to understand more about Associations in Rails.
